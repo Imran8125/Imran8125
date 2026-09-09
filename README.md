@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LangGraph, MERN Stack, PyTorch**
 
-- 👨‍💻 All of my projects are available at [imran-s.me](imran-s.me)
+- 👨‍💻 All of my projects are available at [imran-s](imran-s.vercel.app)
 
 - 💬 Ask me about **Java, Python, Spring Boot, AWS**
 
